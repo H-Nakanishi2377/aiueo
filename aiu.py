@@ -1,2 +1,2 @@
 def Hello():
-    print("aiueo")
+    print("Hello")
